@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "uix-multiselect",
+  "repo": "https://github.com/julianromera/angular-directives-general/tree/master/src",
+  "files": {
+    "include": ["uix-multiselect.custom.js", "uix-multiselect.min.js", "uix-multiselect.min.js.map"]
+  }
+}
